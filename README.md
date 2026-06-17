@@ -1,2 +1,5 @@
-miniCurser contains the mini version in which we will be tell in CLI what website to make and it will make a basic website using HTML , CSS and JS.
+miniCurser contains a lightweight version of the project where users can describe a website through the CLI, and the application generates a basic website using HTML, CSS, and JavaScript
+
 Inside it we can see the first example.
+
+Rest of others are just raw practice files.
